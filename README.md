@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning,Statistics.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate with other developers.
-- 📫 How to reach me mehulvaidya@gmail.com
+- 📫 How to reach me mehulvaidya634@gmail.com
 
 <!---
 MehulVaidya634/MehulVaidya634 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
