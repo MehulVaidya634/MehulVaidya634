@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MehulVaidya634
+- 👋 Hi, I’m Mehul Vaidya
 - 👀 I’m interested in Machine Learning,Statistics.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate with other developers.
